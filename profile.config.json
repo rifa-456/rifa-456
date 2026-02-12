@@ -1,0 +1,27 @@
+{
+  "username": "rifa-456",
+  "style": "compact",
+  "styleText": "",
+  "sections": {
+    "ascii": {
+      "enabled": true,
+      "text": "About me",
+      "font": "Big",
+      "showCats": true
+    },
+    "stats": {
+      "enabled": true,
+      "showCommits": true,
+      "showStars": true,
+      "showFollowers": true
+    },
+    "languages": {
+      "enabled": true,
+      "topN": 8
+    },
+    "activity": {
+      "enabled": false,
+      "limit": 5
+    }
+  }
+}
