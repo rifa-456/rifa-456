@@ -17,8 +17,6 @@ jobs:
 
       - name: Generate README
         uses: patrickbarreira0/github-readme-stylist@main
-        env:
-          GITHUB_TOKEN: \${{ secrets.API_TOKEN }}
         with:
           config_path: 'profile.config.json'
 
